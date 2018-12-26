@@ -100,7 +100,7 @@ def check_options():
         -------------------------------------------------
         CONTACT: 
         	Gaurav Jain
-        	gaurav.jain@dzne.de
+        	gauravj49@gmail.com
         -------------------------------------------------
         '''))
 
