@@ -10,7 +10,7 @@ GJutilities is a collection of scripts useful in the analysis and management of:
 
 ## Table of contents
 <!--ts-->
-1. [Merge Illumina Samples](#merge-illumina-samples.py)
+1. [Merge Illumina Samples](#merge_illumina_samplespy)
 
 
 
@@ -43,7 +43,7 @@ For various scripts:
 	-------------------------------------------------
 	CONTACT: 
 		Gaurav Jain
-		gaurav.jain@dzne.de
+		gauravj49@gmail.com
 	-------------------------------------------------
 	```
 	* [top ▴](#Table-of-contents)
