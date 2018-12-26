@@ -6,4 +6,5 @@ scripts/*.pyc
 00_git_setup_usage.sh
 *.*~
 */*.*~
+plots/A_over_C_combined_with_B_over_D_volcano_plots_combined_volcano_plot.png
 
