@@ -49,6 +49,8 @@ def main():
     my_argument1       = args.my_argument1
     my_argument2       = args.my_argument2
     my_argument3       = args.my_argument3
+    some_flag          = args.smflag
+    my_argument4       = args.my_argument4
     
     # Your main function code
 
