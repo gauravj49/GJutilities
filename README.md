@@ -41,8 +41,7 @@ For various scripts:
 		   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 	***********************************************
 
-	usage: gjain_python_script_template.py [-h] -a1 --myarg1 [-a2 --myarg2]
-										[-a3 --myarg3] [-fg] [-a4 {n,r,c}]
+	usage: gjain_python_script_template.py [-h] -a1 --myarg1 [-a2 --myarg2] [-a3 --myarg3] [-fg] [-a4 {n,r,c}]
 
 	optional arguments:
 	-h, --help            show this help message and exit
