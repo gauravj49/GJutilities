@@ -2,7 +2,7 @@
 """
 ***********************************************
 - PROGRAM: gjain_python_script_template.py
-- CONTACT: Gaurav Jain (gaurav.jain@dzne.edu)
+- CONTACT: Gaurav Jain (gaurav.jain@tum.de)
 - LICENSE: Copyright (C) <year>  <name of author>
            This program is free software: you can redistribute it and/or modify
            it under the terms of the GNU General Public License as published by
@@ -17,31 +17,18 @@
            You should have received a copy of the GNU General Public License
            along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ***********************************************
+
+__author__ = "Gaurav Jain"
+__copyright__ = "Copyright 2019"
+__credits__ = ["Gaurav Jain"]
+__license__ = "GPL3+"
+__maintainer__ = "Gaurav Jain"
+__email__ = "gaurav.jain near tum.de"
+__status__ = "Development"
+
+***********************************************
 """
 print (__doc__)
-
-# Built in modules
-import argparse
-import os.path
-import sys
-
-# 3rd party modules
-import textwrap
-import re
-import subprocess
-import math
-from collections import *
-
-# For looping files in a dir
-import glob
-from os import listdir
-from os.path import isfile, join
-
-# user defined modules
-#from gjainLIB import *      # import all the functions from the Gaurav`s python library
-
-################ USER CONFIGURATION ###################
-#######################################################
 
 def main():
     # Get input options
@@ -108,4 +95,27 @@ def check_options():
 
 # main function
 if __name__=="__main__":
-      main()
+           # Built in modules
+           import argparse
+           import os.path
+           import sys
+
+           # 3rd party modules
+           import textwrap
+           import re
+           import subprocess
+           import math
+           from collections import *
+
+           # For looping files in a dir
+           import glob
+           from os import listdir
+           from os.path import isfile, join
+
+           # user defined modules
+           #from gjainLIB import *      # import all the functions from the Gaurav`s python library
+
+           ################ USER CONFIGURATION ###################
+           #######################################################
+
+           main()
