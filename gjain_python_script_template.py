@@ -1,4 +1,5 @@
 #!/usr/local/bin/python
+# -*- coding: utf-8 -*-
 """
 ***********************************************
 - PROGRAM: gjain_python_script_template.py
